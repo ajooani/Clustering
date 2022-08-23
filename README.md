@@ -3,7 +3,7 @@
 # k_means.py
 Clustering the data by k-means clustering algorithm
 
-# Requirement:
+# Requirements
 Python: 3.6 
 Pycharm 2019.2.4
 numpy==1.21.6
