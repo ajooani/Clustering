@@ -1,7 +1,7 @@
 # Clustering
 
 k_means.py
-CLustering the data by k-means clustering algorithm
+  Clustering the data by k-means clustering algorithm
 
 Requirement:
 Python: 3.6 
